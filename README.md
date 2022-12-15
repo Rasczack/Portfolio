@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td>2.</td>
-<td>Прогноз количества заказов для сервиса такси</td>
+<td><a href="https://github.com/Rasczack/Portfolio/tree/main/project_autos">Построение модели определения стоимости автомобиля</a></td>
 <td>Прогноз количества заказов в аэропортах <br>для сервиса такси с целью более точного планирования количества доступных <br>автомобилей</td>
 <td>python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib</td>
 </tr>
