@@ -26,7 +26,7 @@
 <td>3.</td>
 <td><a href="https://github.com/Rasczack/Portfolio/tree/main/project_ml_for_text">Обучение модели классификации комментариев</a></td>
 <td>Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров. Требуется инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.</td>
-<td>python, pandas, numpy, nltk, sklearn, CatBoost, tf-idf</td>
+<td>python, pandas, numpy, nltk, sklearn, catboost, tf-idf</td>
 </tr>
 </tbody>
 </table>
