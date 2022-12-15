@@ -1,4 +1,4 @@
-# Исследование технологического процесса очистки золота
+# Построение модели определения стоимости автомобиля
 
   [project_autos.ipynb](https://github.com/Rasczack/Portfolio/blob/main/project_autos/project_autos_git.ipynb)
 
