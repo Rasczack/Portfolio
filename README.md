@@ -12,7 +12,7 @@
 <tbody>
 <tr>
 <td>1.</td>
-<td> ссыль_1_Улучшение процесса обогащения золота</td>
+<td><a href="https://github.com/Rasczack/Portfolio/tree/main/project_gold">Улучшение процесса обогащения золота</a></td>
 <td>Выбор лучшей модели для увеличения <br>показателей технологического процесса <br>обогащения золота</td>
 <td>python, pandas, numpy, scipy, sklearn, matplotlib</td>
 </tr>
