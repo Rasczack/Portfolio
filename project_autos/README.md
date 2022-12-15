@@ -1,6 +1,6 @@
 # Исследование технологического процесса очистки золота
 
-  [project_gold.ipynb](https://github.com/Rasczack/Portfolio/blob/main/project_autos/project_autos_git.ipynb)
+  [project_autos.ipynb](https://github.com/Rasczack/Portfolio/blob/main/project_autos/project_autos_git.ipynb)
 
 ## Описание проекта
 
