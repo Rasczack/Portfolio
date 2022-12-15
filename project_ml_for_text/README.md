@@ -1,4 +1,4 @@
-# Исследование технологического процесса очистки золота
+# Обучение модели классификации комментариев
 
   [project_ml_for_text.ipynb](https://github.com/Rasczack/Portfolio/blob/main/project_ml_for_text/project_ml_for_text_ver2_git.ipynb)
 
