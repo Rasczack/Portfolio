@@ -12,9 +12,9 @@
 <tbody>
 <tr>
 <td>1.</td>
-<td><a href="https://github.com/Rasczack/Portfolio/tree/main/project_gold">Улучшение процесса обогащения золота</a></td>
-<td>Выбор лучшей модели для увеличения <br>показателей технологического процесса <br>обогащения золота</td>
-<td>python, pandas, numpy, scipy, sklearn, matplotlib</td>
+<td><a href="https://github.com/Rasczack/Portfolio/tree/main/project_gold">Прогнозирование процесса обогащения золота</a></td>
+<td>Построение модели для улучшения эффективности работы промышленного предприятия</td>
+<td>python, pandas, numpy, sklearn, seaborn, plotly, matplotlib</td>
 </tr>
 <tr>
 <td>2.</td>
